@@ -15,5 +15,3 @@ def plot_regression(x, y, w, b):
     plt.ylabel("Salary")
 
     plt.show()
-
-    plt.savefig("reports/figures/regression_plot.png")
